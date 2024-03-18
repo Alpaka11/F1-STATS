@@ -1,4 +1,5 @@
-# Nu primesc notă pentru că nu am pus titlu și descriere
+# F1Stats
+  Permite utilizatorului sa afle cat mai multe informatii despre lumea F1: pilotii si echipele favorite si circuitele vizitate.
 
 ### Important!
 Aveți voie cu cod generat de modele de limbaj la care nu ați contribuit semnificativ doar în folder-ul `generated`.
